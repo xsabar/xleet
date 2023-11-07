@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-typedef unsigned long long int uint64_t;
+#include <stdint.h>
 
 typedef uint64_t fbmat_t[2][2];
 
